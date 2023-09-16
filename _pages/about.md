@@ -20,10 +20,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Ph.D student in Biological Sciences at University of Maryland
-Currently, student in Pierce's Lab
+
+Currently, student in Pierce's Lab.
 
 I am a computational biologist researching in de novo antibody design. My research interests are in protein physics and antibody design using ML and computational methods.
 
 Education
-B.Sc. Ewha W. University, Chemistry
+
+-     B.Sc. Ewha W. University, Chemistry
 -     Seoul National University, Chemistry 
