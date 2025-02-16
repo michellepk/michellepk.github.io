@@ -27,4 +27,5 @@ I am a computational biologist researching in de novo antibody design. My resear
 Education   
 
 -     B.Sc. Ewha W. University, Chemistry
--     Seoul National University, Chemistry 
+-     Seoul National University, Chemistry
+-     University of Maryland, College Park, Biological Sciences 
