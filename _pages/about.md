@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ph.D student in Biological Sciences at University of Maryland  
-Currently, student in Pierce's Lab.
+Ph.D student in Biological Sciences at University of Maryland, College Park  
+Currently, in Pierce Lab.
 
 I am a computational biologist researching in de novo antibody design. My research interests are in protein physics and antibody design using ML and computational methods.
 
